@@ -1,0 +1,6 @@
+url: https://github.com/MeloFang/dsh-prompt-sharpen
+name: MeloFang/dsh-prompt-sharpen
+category: ui
+description:
+  en: 'Adds a ✦ button to the DSH composer that first lints the draft for four missing elements (output format, constraints, acceptance criteria, context) without spending tokens, then fills only those gaps in one rewrite, keeps the original one click away, and exposes checkup_prompt and sharpen_prompt tools to the agent.'
+  zh: '在 DSH 输入框旁加一个「✦ 锐化」按钮：先用本地规则（不花 token）体检草稿缺哪几项——输出格式、约束边界、验收标准、上下文，再只补这几项；原文一键还原，并向 agent 提供 checkup_prompt 与 sharpen_prompt 两个工具。'
